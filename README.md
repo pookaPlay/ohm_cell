@@ -1,2 +1,2 @@
-# ohm_cell
-clone from zhang
+# cell_research
+This is the repo for all cell sorting code and data
